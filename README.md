@@ -1,3 +1,5 @@
+![Alt text](https://github.com/Dhruvbam/Search-Engine_Reliability_Analysis/blob/main/img.png)
+
 # Search Engine Reliability Analysis
 
 ## Project Overview
